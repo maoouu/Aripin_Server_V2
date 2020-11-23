@@ -17,3 +17,12 @@ and stuff about Java.
 
 ## Server Folder Link
 - https://drive.google.com/drive/folders/1USAcinv5Xr7tC-y7PAXY7SWIkplr68uW?usp=sharing
+
+## Important Bits
+#### Server.properties
+- `server-ip= <put your host IP or your ZeroTier One IP (if you're planning to use that)>`
+#### plugins/Geyser-Spigot/config.yml
+- There should be two places where you need to put the same host IP, one for BEDROCK and one for REMOTE
+- `address= <the host IP goes here>` 
+#### (Optional) ZeroTier One
+- If you plan to host your own ZeroTier One virtual network, here's a tutorial: https://www.youtube.com/watch?v=oTlxwg3atBc
