@@ -19,6 +19,9 @@ and stuff about Java.
 - https://drive.google.com/drive/folders/1USAcinv5Xr7tC-y7PAXY7SWIkplr68uW?usp=sharing
 
 ## Important Bits
+#### Running the server
+- You just have to click the `run.bat` file, it has all the optimizations required to run the server smoothly.
+- To stop the server, just enter `stop`
 #### Versions
 - This is just a backup for the previous server.jar versions
 #### Server.properties
