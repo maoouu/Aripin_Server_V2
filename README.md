@@ -19,6 +19,8 @@ and stuff about Java.
 - https://drive.google.com/drive/folders/1USAcinv5Xr7tC-y7PAXY7SWIkplr68uW?usp=sharing
 
 ## Important Bits
+#### Versions
+- This is just a backup for the previous server.jar versions
 #### Server.properties
 - `server-ip= <put your host IP or your ZeroTier One IP (if you're planning to use that)>`
 #### plugins/Geyser-Spigot/config.yml
