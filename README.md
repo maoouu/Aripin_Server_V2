@@ -11,6 +11,7 @@ Aripin's Minecraft community project aiming to make Java and Bedrock cross-playa
 
 ## Server Folder Link
 - https://mega.nz/folder/xcc3UQpZ#-tcUbuS03YIhNF6MQYG-Xw
+- Click the `Download as ZIP` to start downloading.
 
 ## Important Bits
 #### Running the server
