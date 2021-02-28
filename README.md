@@ -16,7 +16,7 @@ Aripin's Minecraft community project aiming to make Java and Bedrock cross-playa
 #### Running the server
 - You just have to click the `run.bat` file, it has all the optimizations required to run the server smoothly.
 - To stop the server, just enter `stop`
-- To join the server, enter the `ip-address:port`; use ports `25565` for Java or `19132` for Spigot. (Example: `192.168.1.1:25565` `192.168.1.1:19132`)
+- To join the server, enter the `ip-address:port`; use ports `25565` for Java or `19132` for Bedrock. (Example: `192.168.1.1:25565` `192.168.1.1:19132`)
 #### Versions
 - This is just a backup for the previous server.jar versions
 #### Server.properties
